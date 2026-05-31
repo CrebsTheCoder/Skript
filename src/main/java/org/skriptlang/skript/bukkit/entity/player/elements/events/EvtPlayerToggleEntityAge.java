@@ -102,4 +102,5 @@ public class EvtPlayerToggleEntityAge extends SkriptEvent {
 			.appendIf(entitiesLiteral != null, "of", entitiesLiteral)
 			.toString();
 	}
+
 }
